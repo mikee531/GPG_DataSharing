@@ -19,11 +19,12 @@ Follow the instructions to install it.
 
 
 2. Usage:
-Encrypting file:
+
+a. Encrypting file:
 <img width="951" alt="Screenshot 2024-10-24 at 2 07 28 PM" src="https://github.com/user-attachments/assets/87e1c280-8ca4-490c-b17c-3155e79a8b43">
 
-Sending the Encrypted file to the other party
+b. Sending the Encrypted file to the other party
 
-Decrypting file:
+c. Decrypting file:
 <img width="946" alt="Screenshot 2024-10-24 at 2 08 44 PM" src="https://github.com/user-attachments/assets/da6bb74f-66eb-4055-8ce5-0c1566ff18d1">
 
